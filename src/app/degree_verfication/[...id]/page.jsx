@@ -3,7 +3,7 @@ import { getStudentAddresses, getStudentWithAddress } from "@/web3_function";
 import React, { useEffect, useState } from "react";
 import { connectWeb3Metamask } from "@/web3_function";
 
-const page = ({ params }) => {
+const Page = ({ params }) => {
 
 const [studentDetails,setStudentDetails]=useState("");
 
@@ -103,4 +103,4 @@ const [studentDetails,setStudentDetails]=useState("");
   );
 };
 
-export default page;
+export default Page;
