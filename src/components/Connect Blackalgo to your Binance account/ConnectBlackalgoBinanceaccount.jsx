@@ -31,7 +31,7 @@ function ConnectBlackalgoBinanceaccount() {
              Ethereum BlockChain 
             </div>
             <div className="text-[16px] font-[500] leading-[28px] text-[#E0E0FFCC]">
-              It's important to note that only the admin has the privilege to
+              It&apos;s important to note that only the admin has the privilege to
               add new student records through Ethereum, ensuring the utmost
               security and control. Your funds always stay secure in your
               account

@@ -146,17 +146,17 @@ function Footer() {
         </div>
         <div className="mt-[12px] flex max-w-[1322px] w-full gap-[24px] text-[13px] font-[500] leading-[16px] text-[#E0E0FF99]">
           <div className="max-w-[648px] w-full">
-          This platform is operated by ALI and Co. in collaboration with Ether Blockchain. By accessing this server and utilizing ALI and Co.'s degree verification products, you acknowledge and agree to the following terms:<br /><br />
-<span>1. Compliance Responsibility: You are solely accountable for adhering to all relevant laws and regulations associated with your utilization of ALI and Co.'s degree verification products, including those concerning blockchain technologies.<br />
+          This platform is operated by ALI and Co. in collaboration with Ether Blockchain. By accessing this server and utilizing ALI and Co.&apos;s degree verification products, you acknowledge and agree to the following terms:<br /><br />
+<span>1. Compliance Responsibility: You are solely accountable for adhering to all relevant laws and regulations associated with your utilization of ALI and Co.&apos;s degree verification products, including those concerning blockchain technologies.<br />
 </span>
 <br />
 <span>2. Legal Representations Disclaimer: ALI and Co. makes no representations or warranties regarding the legal status of blockchain technologies, or their applicability to your use of degree verification products.<br />
 </span>
 <br />
-<span>3. Assumption of Risks: You acknowledge and assume all legal, academic, and other risks related to your use of ALI and Co.'s degree verification products.<br />
+<span>3. Assumption of Risks: You acknowledge and assume all legal, academic, and other risks related to your use of ALI and Co.&apos;s degree verification products.<br />
 </span>
 <br />
-<span>4. Usage Restrictions: The utilization of ALI and Co.'s degree verification products may be restricted in certain jurisdictions. ALI and Co. reserves the right to limit product usage to institutions and entities complying with specific jurisdictional requirements.<br />
+<span>4. Usage Restrictions: The utilization of ALI and Co.&apos;s degree verification products may be restricted in certain jurisdictions. ALI and Co. reserves the right to limit product usage to institutions and entities complying with specific jurisdictional requirements.<br />
 </span>
           </div>
 
@@ -165,7 +165,7 @@ function Footer() {
 
              <span>6. No Responsibility for Losses: ALI and Co. is not accountable for any losses, errors, or damages occurring in your verification process. You accept that these risks are inherent in the degree verification process and assume full responsibility for any resulting damages.</span>  <br /> <br />
 
-            <span>7. Disclaimer of Liability: ALI and Co. is not responsible for determining applicable laws for your degree verification. If you disagree with this disclaimer’s terms, kindly refrain from using this platform.</span>  <br />
+            <span>7. Disclaimer of Liability: ALI and Co. is not responsible for determining applicable laws for your degree verification. If you disagree with this disclaimer&apos;s terms, kindly refrain from using this platform.</span>  <br />
           </div>
         </div>
         <div className="flex max-w-[1680px] w-full mt-[48px]  justify-between"><div className="flex flex-col gap-[4px]">

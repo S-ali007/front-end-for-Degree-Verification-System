@@ -10,7 +10,7 @@ import Link from "next/link";
 import { document } from "postcss";
 import React, { useEffect, useState } from "react";
 
-function navbar() {
+function Navbar() {
   const [selectedOption, setSelectedOption] = useState("Solutions");
   useEffect(() => {
     //  console.log("Inner Width: ", window.innerWidth)
@@ -543,4 +543,4 @@ function navbar() {
   );
 }
 
-export default navbar;
+export default Navbar;
