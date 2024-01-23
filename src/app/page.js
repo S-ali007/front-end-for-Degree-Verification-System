@@ -40,10 +40,10 @@ export default function Home() {
         <TrackYourPerformanceDaily />
         <ProvenTraceRecord />
         <EarnEvenBearMarket />
-        <ProvenTradingStrategies />
-        <ConnectBlackalgoBinanceaccount />
+        {/* <ProvenTradingStrategies /> */}
+        {/* <ConnectBlackalgoBinanceaccount /> */}
         <Whyblackalgo />
-        <SimplePricing />
+        {/* <SimplePricing /> */}
         <AboutBlackalgo />
         <Faq />
         <Footer />

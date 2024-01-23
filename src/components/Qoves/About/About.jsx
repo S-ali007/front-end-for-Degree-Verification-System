@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function () {
+export default function  About() {
   return (
     <div className="max-w-[1404px] w-full flex  flex-col sm:flex-row ">
       {/* Nose assessment report */}
@@ -129,7 +129,7 @@ export default function () {
       <div className=" sm:max-w-[468px] max-w-[343px] w-full  grid grid-cols-1  bg-[#fff] border-b-[#E7E7E7] border-b-[1px] ">
         <div className="sm:max-w-[468px] max-w-[343px] w-full flex flex-col gap-[20px] sm:justify-between p-[20px] sm:p-[48px] border-t-[#E7E7E7] border-t-[1.5px] ">
           <div className="max-w-[176px] w-full text-[#7D828E] text-[13px] font-[500] leading-[13px] tracking-[-0.065px] uppercase sm:opacity-100 opacity-[0.6]">
-            education /
+            education 
           </div>
           {/* Professional courses  */}
           <div className={`max-w-[372px] w-full `}>
@@ -151,7 +151,7 @@ export default function () {
           <div className="max-w-[372px] w-full flex flex-col sm:flex-row   gap-[6px]  ">
             <div className="max-w-[183px] w-full text-[#7D828E] text-[13px] font-[500]  leading-[13px] tracking-[-0.065px]  uppercase sm:opacity-100 opacity-[0.6]">
               {" "}
-              email /
+              email 
             </div>
             <div className="max-w-[183px] w-full text-[#121212]   text-[18px] font-[500]  leading-[13px] tracking-[-0.065px]  ">
               {" "}
@@ -160,8 +160,8 @@ export default function () {
           </div>
           <div className="max-w-[372px] w-full flex flex-col sm:flex-row  gap-[6px]  ">
             <div className="max-w-[183px] w-full text-[#7D828E] text-[13px] font-[500]  leading-[13px] tracking-[-0.065px]  uppercase sm:opacity-100 opacity-[0.6]">
-              {" "}
-              report /{" "}
+              
+              report /
             </div>
             <div className="max-w-[183px] w-full text-[#121212]   text-[18px] font-[500]  leading-[13px] tracking-[-0.065px]  ">
               {" "}
