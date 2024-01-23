@@ -16,7 +16,7 @@ function ProvenTraceRecord() {
           Established Trust Since 2020
         </div>
         <div className="text-[#E0E0FFCC] leading-[28px] max-w-[424px] w-full text-[16px] font-[500]">
-        Our Blockchain Degree Verification System boasts a proven track record, delivering consistent results. Over the past 2 years*, we've maintained an audited success rate, ensuring reliable verification outcomes. Join us for secure and efficient degree validation in the education industry. Your trust, our priority.
+        Our Blockchain Degree Verification System boasts a proven track record, delivering consistent results. Over the past 2 years*, we&apos;ve maintained an audited success rate, ensuring reliable verification outcomes. Join us for secure and efficient degree validation in the education industry. Your trust, our priority.
         </div>
       </div>
       {/* right-side */}
